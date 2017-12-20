@@ -1,0 +1,152 @@
+
+html{
+	width: 100%;
+	height: 100%;
+}
+
+body{
+	max-width: 800px;
+	margin: auto;
+	font-family: 'Montserrat', sans-serif;
+}
+.main-heading{
+	float: left;
+}
+// .heading{
+// 	background-image: url("https://d13p2xj50zkyqm.cloudfront.net/promos/AF/RLL/Trump_Social_Security_Compliant/RLL_TrumpSocialSecurity_Background_Image.png");
+// 	background-repeat: no-repeat;
+// }
+
+.nav li{
+	display: inline;
+}
+.desclaimer{
+	font-size: 14px;
+	text-align: center;
+	margin: 0 12px;
+}
+.btn1{
+	background-color: #face1e;
+    border: 1px black solid;
+    color: black;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px 2px;
+    cursor: pointer;
+}
+.Description p{
+	color: #503326;
+	font-size: 20px;
+	margin: 5px 9px 19px 21px;
+}
+.sub-head{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	background-color: #f16f20;
+	color: white;
+	padding: 10px;
+	margin: 0;
+	line-height: 33px;
+}
+.img-center{
+border: 4px solid #f16f20;
+padding: 14px;
+border-radius: 60px; 
+background-color: white;
+	
+}
+.img-section1{
+	padding-top: 28px;
+	padding-bottom: 20px;
+	background-color: rgba(7,160,148,0.4);
+}
+.income-section{
+	padding-bottom: 2px;
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	margin-bottom: 5px;;
+	color: #503326;
+}
+.img-section1 p{
+	margin-top: 0;
+	font-size: 20px;
+	color: #503326;
+}
+.img-section2{
+	padding-top: 28px;
+	padding-bottom: 20px;
+	background-color: rgba(7,160,148,0.3);
+}
+.retirement-section{
+	padding-bottom: 8px;
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	margin-bottom: 5px;;
+	color: #503326;
+}
+.img-section2 p{
+	margin-top: 0;
+	font-size: 18px;
+	color: #503326;
+	margin: 7px 41px; 
+}
+.img-section3{
+	padding-top: 28px;
+	padding-bottom: 20px;
+	background-color: rgba(7,160,148,0.2);
+}
+.opportunities-section{
+	padding-bottom: 8px;
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	margin-bottom: 5px;;
+	color: #503326;
+}
+.img-section3 p{
+	margin-top: 0;
+	font-size: 18px;
+	color: #503326;
+	margin: 7px 33px; 
+}
+.section3{
+	margin-top: 20px;
+}
+.nilus-heading{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	background-color: #f16f20;
+	color: white;
+	padding: 25px;
+	margin: 0;
+}
+.nilus-section{
+	background-color: rgba(173,219,216,0.9);
+	padding-bottom: 15px;
+}
+.nilus-section p{
+	color: #503326;
+	font-size: 16px;
+	text-align: justify;
+	padding: 8px 6px;
+}
+.loophole-head{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	background-color: #f16f20;
+	color: white;
+	padding: 10px;
+	margin: 0;
+	line-height: 33px;
+}
+.Loophole-section{
+	padding: 0;
+	margin-top: 20px;
+
+}
+.famshot-img{
+	padding-top: 22px;
+}
+
